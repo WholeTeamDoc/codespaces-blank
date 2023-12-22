@@ -24,3 +24,9 @@ if num == 8:
     print("Build/Destroy")
 else:
     print("Born")
+    
+# Am trying to program the code to combine int's
+# If for example random number is 27 💧☀️
+# would need the terminal to output Wisdom God
+# May assign the nums to emojis 
+# The random.randit() would then go 0 to 99 I think 
